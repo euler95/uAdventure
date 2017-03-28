@@ -3,7 +3,6 @@ using UnityEngine;
 
 using System.Collections.Generic;
 using uAdventure.Core;
-using uAdventure.QR;
 using System;
 
 namespace uAdventure.Editor
