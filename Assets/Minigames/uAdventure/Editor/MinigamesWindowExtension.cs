@@ -13,7 +13,7 @@ public class MinigamesWindowsExtension : DefaultButtonMenuEditorWindowExtension 
 		var content = new GUIContent();
 
 		// Button
-		content.image = (Texture2D) Resources.Load("EAdventureData/img/icons/scenes", typeof(Texture2D));
+		content.image = (Texture2D) Resources.Load("EAdventureData/img/icons/minigame", typeof(Texture2D));
 		content.text = "Minijuegos";
 		ButtonContent = content;
 	}
